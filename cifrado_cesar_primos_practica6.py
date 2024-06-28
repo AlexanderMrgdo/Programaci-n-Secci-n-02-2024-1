@@ -71,22 +71,14 @@ while True:
                 print("No ha ingresado una opcion valida")
             if accion=="1":
                 palabra_cifrada=""
-                palabra2=palabra
-                palabra2=palabra2.split(" ")
                 mensaje_cifrado=[]
-                palabra2=list(palabra2)
                 palabra=list(palabra)
                 palabra_cifrada=[]
-                palabra_ws=[]
-                print(palabra2)
-                for letra1 in range(len(palabra2)):
-                    for letra2 in range(len(palabra2)):
-                        palabra_ws.append(palabra2[letra1][letra2])
                 for letra in palabra:
                     palabra_cifrada.append(primos_list[letra])
-                for letra in palabra_ws:
+                for letra in palabra:
                     mensaje_cifrado.append(primos_list[letra])
-                    while len(mensaje_cifrado)<2*len(palabra_ws)-1:
+                    while len(mensaje_cifrado)<2*len(palabra)-1:
                         if primos_list[letra]==" ":
                             mensaje_cifrado.append(" ")
                             break
