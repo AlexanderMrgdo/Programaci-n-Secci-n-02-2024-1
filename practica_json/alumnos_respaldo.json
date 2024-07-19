@@ -1,0 +1,34 @@
+{
+  "Data": [
+    {
+      "Nombre": "Daniel",
+      "Edad": "25",
+      "Semestre": "3"
+    },
+    {
+      "Nombre": "Paola",
+      "Edad": "17",
+      "Semestre": "1"
+    },
+    {
+      "Nombre": "Yoha",
+      "Edad": "22",
+      "Semestre": "4"
+    },
+    {
+      "Nombre": "Alexander",
+      "Edad": "25",
+      "Semestre": "5"
+    },
+    {
+      "Nombre": "Luis",
+      "Edad": "26",
+      "Semestre": "6"
+    },
+    {
+      "Nombre": "Yenny",
+      "Edad": "2",
+      "Semestre": "8"
+    }
+  ]
+}
