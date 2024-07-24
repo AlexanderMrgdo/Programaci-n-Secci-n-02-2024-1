@@ -1,6 +1,3 @@
-from pickle import FALSE
-
-
 def val_arg2_type_intv(types):
     if (type(types)!=list and not type(types)==tuple) or (type(types)!=tuple and not type(types)==list):
         raise TypeError("El SEGUNDO argumento no es de un tipo permitido")
