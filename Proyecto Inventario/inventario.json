@@ -1,0 +1,54 @@
+{
+  "Data": [
+    {
+      "Nombre": "DESINFECTANTE",
+      "Precio": "18",
+      "Cantidad": "2"
+    },
+    {
+      "Nombre": "CERA",
+      "Precio": "19",
+      "Cantidad": "2"
+    },
+    {
+      "Nombre": "POLLO",
+      "Precio": "35",
+      "Cantidad": "1"
+    },
+    {
+      "Nombre": "LECHE",
+      "Precio": "25",
+      "Cantidad": "13"
+    },
+    {
+      "Nombre": "LAPIZ",
+      "Precio": "5",
+      "Cantidad": "35"
+    },
+    {
+      "Nombre": "MARCADOR",
+      "Precio": "8",
+      "Cantidad": "15"
+    },
+    {
+      "Nombre": "AJI",
+      "Precio": "3",
+      "Cantidad": "75"
+    },
+    {
+      "Nombre": "LAPIZ8",
+      "Precio": "75",
+      "Cantidad": "23"
+    },
+    {
+      "Nombre": "CARTULINA",
+      "Precio": "2",
+      "Cantidad": "35"
+    },
+    {
+      "Nombre": "CAFE",
+      "Precio": "76",
+      "Cantidad": "3"
+    }
+  ]
+}
